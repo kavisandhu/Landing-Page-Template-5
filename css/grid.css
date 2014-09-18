@@ -1,0 +1,267 @@
+
+.pure-u-1, .pure-u-1-1, .pure-u-1-2, .pure-u-1-3, .pure-u-2-3, .pure-u-1-4, .pure-u-3-4, .pure-u-1-6, .pure-u-5-6, .pure-u-1-12, .pure-u-2-12, .pure-u-3-12, .pure-u-4-12, .pure-u-5-12, .pure-u-6-12, .pure-u-7-12, .pure-u-8-12, .pure-u-9-12, .pure-u-10-12, .pure-u-11-12, .pure-u-12-12 {
+    display: inline-block;
+    letter-spacing: normal;
+    text-rendering: auto;
+    vertical-align: top;
+    word-spacing: normal;
+}
+.pure-u-1-12 {
+    width: 8.3333%;
+}
+.pure-u-1-6, .pure-u-2-12 {
+    width: 16.6667%;
+}
+.pure-u-1-4, .pure-u-3-12 {
+    width: 25%;
+}
+.pure-u-1-3, .pure-u-4-12 {
+    width: 33.3333%;
+}
+.pure-u-5-12 {
+    width: 41.6667%;
+}
+.pure-u-1-2, .pure-u-6-12 {
+    width: 50%;
+}
+.pure-u-7-12 {
+    width: 58.3333%;
+}
+.pure-u-2-3, .pure-u-8-12 {
+    width: 66.6667%;
+}
+.pure-u-3-4, .pure-u-9-12 {
+    width: 75%;
+}
+.pure-u-5-6, .pure-u-10-12 {
+    width: 83.3333%;
+}
+.pure-u-11-12 {
+    width: 91.6667%;
+}
+.pure-u-1, .pure-u-1-1, .pure-u-12-12 {
+    width: 100%;
+}
+@media screen and (min-width: 35.5em) /* 568px */ {
+.pure-u-sm-1, .pure-u-sm-1-1, .pure-u-sm-1-2, .pure-u-sm-1-3, .pure-u-sm-2-3, .pure-u-sm-1-4, .pure-u-sm-3-4, .pure-u-sm-1-6, .pure-u-sm-5-6, .pure-u-sm-1-12, .pure-u-sm-2-12, .pure-u-sm-3-12, .pure-u-sm-4-12, .pure-u-sm-5-12, .pure-u-sm-6-12, .pure-u-sm-7-12, .pure-u-sm-8-12, .pure-u-sm-9-12, .pure-u-sm-10-12, .pure-u-sm-11-12, .pure-u-sm-12-12 {
+    display: inline-block;
+    letter-spacing: normal;
+    text-rendering: auto;
+    vertical-align: top;
+    word-spacing: normal;
+}
+.pure-u-sm-1-12 {
+    width: 8.3333%;
+}
+.pure-u-sm-1-6, .pure-u-sm-2-12 {
+    width: 16.6667%;
+}
+.pure-u-sm-1-4, .pure-u-sm-3-12 {
+    width: 25%;
+}
+.pure-u-sm-1-3, .pure-u-sm-4-12 {
+    width: 33.3333%;
+}
+.pure-u-sm-5-12 {
+    width: 41.6667%;
+}
+.pure-u-sm-1-2, .pure-u-sm-6-12 {
+    width: 50%;
+}
+.pure-u-sm-7-12 {
+    width: 58.3333%;
+}
+.pure-u-sm-2-3, .pure-u-sm-8-12 {
+    width: 66.6667%;
+}
+.pure-u-sm-3-4, .pure-u-sm-9-12 {
+    width: 75%;
+}
+.pure-u-sm-5-6, .pure-u-sm-10-12 {
+    width: 83.3333%;
+}
+.pure-u-sm-11-12 {
+    width: 91.6667%;
+}
+.pure-u-sm-1, .pure-u-sm-1-1, .pure-u-sm-12-12 {
+    width: 100%;
+}
+}
+@media screen and (max-width: 767px) {
+.left_banner {
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+.callout.left:before {
+    border-bottom: 19px solid rgb(4, 209, 130);
+    left: 41%;
+    top: -39px;
+    z-index: -1;
+}
+.callout.top:before {
+    border-bottom: 10px solid rgb(68, 68, 68);
+    display: block;
+    left: 45%;
+    top: -20px;
+}
+.callout.left:before {
+    border-bottom: 19px solid rgb(4, 209, 130);
+    left: 41%;
+    top: -39px;
+    z-index: -1;
+}
+}
+@media screen and (min-width: 48em) /* 767px */{
+.pure-u-md-1, .pure-u-md-1-1, .pure-u-md-1-2, .pure-u-md-1-3, .pure-u-md-2-3, .pure-u-md-1-4, .pure-u-md-3-4, .pure-u-md-1-6, .pure-u-md-5-6, .pure-u-md-1-12, .pure-u-md-2-12, .pure-u-md-3-12, .pure-u-md-4-12, .pure-u-md-5-12, .pure-u-md-6-12, .pure-u-md-7-12, .pure-u-md-8-12, .pure-u-md-9-12, .pure-u-md-10-12, .pure-u-md-11-12, .pure-u-md-12-12 {
+    display: inline-block;
+    letter-spacing: normal;
+    text-rendering: auto;
+    vertical-align: top;
+    word-spacing: normal;
+}
+/* .callout.left:before {
+    border-left: 20px solid rgb(4, 209, 130);
+    right: -34px;
+    top: 40%;
+} */
+.pure-u-md-1-12 {
+    width: 8.3333%;
+}
+.pure-u-md-1-6, .pure-u-md-2-12 {
+    width: 16.6667%;
+}
+.pure-u-md-1-4, .pure-u-md-3-12 {
+    width: 25%;
+}
+.pure-u-md-1-3, .pure-u-md-4-12 {
+    width: 33.3333%;
+}
+.pure-u-md-5-12 {
+    width: 41.6667%;
+}
+.pure-u-md-1-2, .pure-u-md-6-12 {
+    width: 50%;
+}
+.pure-u-md-7-12 {
+    width: 58.3333%;
+}
+.pure-u-md-2-3, .pure-u-md-8-12 {
+    width: 66.6667%;
+}
+.pure-u-md-3-4, .pure-u-md-9-12 {
+    width: 75%;
+}
+.pure-u-md-5-6, .pure-u-md-10-12 {
+    width: 83.3333%;
+}
+.pure-u-md-11-12 {
+    width: 91.6667%;
+}
+.pure-u-md-1, .pure-u-md-1-1, .pure-u-md-12-12 {
+    width: 100%;
+}
+}
+@media screen and (max-width: 48em) /* 767px */ {
+.reltive_pos_arow {
+    margin: 0 auto;
+    position: relative;
+    width: 238px;
+}
+.callout.left:before {
+   
+    top: -39px;
+    z-index: -1;
+}
+.mobile_pad {
+    margin-bottom: 50px;
+}
+}
+
+@media screen and (min-width: 768px) /* 1024px */ {
+	.callout.left:before {
+    border-left: 20px solid rgb(4, 209, 130);
+    right: -34px;
+    top: 40%;
+}
+}
+
+@media screen and (min-width: 64em) /* 1024px */ {
+.pure-u-lg-1, .pure-u-lg-1-1, .pure-u-lg-1-2, .pure-u-lg-1-3, .pure-u-lg-2-3, .pure-u-lg-1-4, .pure-u-lg-3-4, .pure-u-lg-1-6, .pure-u-lg-5-6, .pure-u-lg-1-12, .pure-u-lg-2-12, .pure-u-lg-3-12, .pure-u-lg-4-12, .pure-u-lg-5-12, .pure-u-lg-6-12, .pure-u-lg-7-12, .pure-u-lg-8-12, .pure-u-lg-9-12, .pure-u-lg-10-12, .pure-u-lg-11-12, .pure-u-lg-12-12 {
+    display: inline-block;
+    letter-spacing: normal;
+    text-rendering: auto;
+    vertical-align: top;
+    word-spacing: normal;
+}
+.pure-u-lg-1-12 {
+    width: 8.3333%;
+}
+.pure-u-lg-1-6, .pure-u-lg-2-12 {
+    width: 16.6667%;
+}
+.pure-u-lg-1-4, .pure-u-lg-3-12 {
+    width: 25%;
+}
+.pure-u-lg-1-3, .pure-u-lg-4-12 {
+    width: 33.3333%;
+}
+.pure-u-lg-5-12 {
+    width: 41.6667%;
+}
+.pure-u-lg-1-2, .pure-u-lg-6-12 {
+    width: 50%;
+}
+.pure-u-lg-7-12 {
+    width: 58.3333%;
+}
+.pure-u-lg-2-3, .pure-u-lg-8-12 {
+    width: 66.6667%;
+}
+.pure-u-lg-3-4, .pure-u-lg-9-12 {
+    width: 75%;
+}
+.pure-u-lg-5-6, .pure-u-lg-10-12 {
+    width: 83.3333%;
+}
+.pure-u-lg-11-12 {
+    width: 91.6667%;
+}
+.pure-u-lg-1, .pure-u-lg-1-1, .pure-u-lg-12-12 {
+    width: 100%;
+}
+#testimonial {
+    position: relative;
+}
+#testimonial .profile-info {
+    position: absolute;
+    right: 0;
+}
+#testimonial .profile-pic {
+    left: 0;
+    position: absolute;
+}
+.clear-fix {
+    clear: both;
+}
+.callout.left:before {
+    border-left: 20px solid rgb(4, 209, 130);
+    right: -34px;
+    top: 40%;
+}
+}
+
+@media screen and (min-width: 768px) /* 768px */  {
+#testimonial {
+    position: relative;
+}
+#testimonial .profile-info {
+    position: absolute;
+    right: 0;
+}
+#testimonial .profile-pic {
+    position: absolute;
+    right: 0;
+}
+}
