@@ -154,8 +154,15 @@ button, input {
 button, select {
     text-transform: none;
 }
-button, html input[type="button"], input[type="reset"], input[type="submit"] {
+input[type="submit"] {
     cursor: pointer;
+	color: rgb(255, 255, 255);
+    font-family: 'pacificoregular';
+    font-size: 24px;
+    font-weight: 300;
+    padding: 0;
+	background-color: rgb(4, 209, 130);
+	border-radius: 0 !important;
 }
 button[disabled], html input[disabled] {
     cursor: default;
@@ -864,12 +871,14 @@ html, button, input, select, textarea, ul, li .pure-g [class*="pure-u"] {
     font-size: 20px;
     font-weight: 700;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+	text-transform:uppercase;
 }
 .pure-form p {
     font-family: 'Open Sans',sans-serif;
     font-size: 10px;
     font-style: italic;
     font-weight: 300;
+	text-transform: uppercase;
 }
 .footer {
     color: rgb(194, 194, 194);
@@ -878,6 +887,7 @@ html, button, input, select, textarea, ul, li .pure-g [class*="pure-u"] {
     font-weight: 300;
     padding: 20px 0;
 }
+.footer span{ text-transform:uppercase;}
 .is-center {
     text-align: center;
 }
